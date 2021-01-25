@@ -7,8 +7,6 @@ In this project, we helped Maria alter and analyze school and student datasets t
 
 ## Results 
 This updated analysis slightly varies from the initial analysis ([Original School District Analysis](PyCitySchools.ipynb)) as the reading and math scores from Thomas High School's grade 9 was replaced with NaN (Not a Number), but leaving all other data intact. Below is a screenshot that shows the replacement of selected data with NaN.
-![Selected Data Replaced with NaN](Other/Refactored_Code_Arrays.png)
+![Selected Data Replaced with NaN](Images/Selected Data Replaced with NaN.png)
 
-1) In the refactored code I created 3 additional arrays (as shown below): tickerVolumes, tickerStartingPrices and tickerEndingPrices. The tickers array from the original code was also used in the refactored code. A tickerIndex variable was created to access the correct stock ticker index in each array.**
-###### Refactored Code and Arrays
-![Refactored Code and Arrays](Other/Refactored_Code_Arrays.png)
+1) 
