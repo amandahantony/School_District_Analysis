@@ -7,6 +7,6 @@ In this project, we helped Maria alter and analyze school and student datasets t
 
 ## Results 
 This updated analysis slightly varies from the initial analysis ([Original School District Analysis](PyCitySchools.ipynb)) as the reading and math scores from Thomas High School's grade 9 was replaced with NaN (Not a Number), but leaving all other data intact. Below is a screenshot that shows the replacement of selected data with NaN.
-![Selected Data Replaced with NaN](Images/Selected Data Replaced with NaN.png)
+![Selected Data Replaced with NaN](Images/SelectedDataReplaced_with_NaN.png)
 
 1) 
