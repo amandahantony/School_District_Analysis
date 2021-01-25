@@ -25,3 +25,9 @@ This updated analysis slightly varies from the initial analysis ([Original Schoo
 4)Both the reading and math scores by grade were not affected by the replacement for grades 10 through 12. However, the reading and math scores for ninth graders at Thomas High School was marked as nan. This is understandable as we had replaced those values with NaN at the beginning of the project. Shown below are the reading and math scores by grade with school name being the index. 
 
 ![Reading Score by Grade](Images/reading_scores_bygrade.png) ![Math Score by Grade](Images/math_scores_bygrade.png)
+
+5)School spending was divided into 4 bins determined by the minimum, maximum and standard deviation values. These values were retrieved by applying the describe() function to the budget per student. After replacing the ninth-grade scores, the % passing math, % passing reading, and % overall passing values changed, but only within the $630-644 bin. This makes sense because the per student budget for Thomas High School is $638, which is between $630 and $644. The % passing math value decreased by 6%, % passing reading decreased by 7%, and % overall passing decreased by 7%. The scores by school spending data frame is shown below.
+
+![Score by Spending Range](Images/scoreby_spendingrange.png)
+
+** In the second half of deliverable 2, we calculated a new student count that only included students from grade 10 to grade 12 at Thomas High School. The school summary dataframe was updated to now include % passing values that were calculated based off of the new student count. The new school summary dataframe now looks very similar to the original school dataframe, with values being a few decimals off. Eliminating the grade 9 scores and student count from the school summary made a miniscule change to the over 
