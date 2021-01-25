@@ -14,7 +14,7 @@ This updated analysis slightly varies from the initial analysis ([Original Schoo
 
 ![District Summary](Images/District_Summary.png)
 
-2) The school summary provided information on the size, type, budget, average scores and percentage passing for each school. The school summary from the updated analysis (as shown below), was significantly altered in comparison to the original analysis. Once the reading and math scores from Thomas High School grade 9 was replaced with NaN, the % Passing Math, % Passing Reading and % Overall Passing went down to 66.9%,	69.7% and 65.1%, respectively. Before the values were replaced, the % Passing values were all above 90%. The other values remained the same. 
+2) The school summary provided information on the size, type, budget, average scores and percentage passing for each school. The school summary from the updated analysis (as shown below), was significantly altered in comparison to the original analysis. Once the reading and math scores from Thomas High School grade 9 was replaced with NaN, the % Passing Math, % Passing Reading and % Overall Passing went down to 66.9%,	69.7% and 65.1%, respectively. These are over 20% lower than in the original analysis. Before the values were replaced, the % Passing values were all above 90%. The other values remained the same. 
 
 ![School Summary](Images/school_summary.png)
 
@@ -30,4 +30,13 @@ This updated analysis slightly varies from the initial analysis ([Original Schoo
 
 ![Score by Spending Range](Images/scoreby_spendingrange.png)
 
-** In the second half of deliverable 2, we calculated a new student count that only included students from grade 10 to grade 12 at Thomas High School. The school summary dataframe was updated to now include % passing values that were calculated based off of the new student count. The new school summary dataframe now looks very similar to the original school dataframe, with values being a few decimals off. Eliminating the grade 9 scores and student count from the school summary made a miniscule change to the over 
+6)
+
+![Score by School Size](Images/scoreby_schoolsize.png)
+
+7)
+
+![Score by School Type](Images/scoreby_schooltype.png)
+
+
+** In the second half of deliverable 2, we calculated a new student count that only included students from grade 10 to grade 12 at Thomas High School. The school summary dataframe was updated to now include % passing values that were calculated based off of the new student count. The new school summary dataframe now looks very similar to the original school dataframe, with values being only a few decimals off. Eliminating the grade 9 scores and student count from the school summary made a miniscule change to the overall summary. 
