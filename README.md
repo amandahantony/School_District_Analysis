@@ -10,6 +10,8 @@ This updated analysis slightly varies from the initial analysis ([Original Schoo
 
 ![Selected Data Replaced with NaN](Images/SelectedDataReplaced_with_NaN.png)
 
-1) The district summary provided information on the total number of schools, students and budget in the district, average math and reading scores across the schools, as well as the percentage of passing students. The district summary from the updated analysis (as shown below), remained the same as the original analysis except for one value. The average math score in the updated analysis decreased by 0.1% in comparison to the original. 
+1) The district summary provided information on the total number of schools, students and budget in the district, average math and reading scores across the schools, as well as the percentage of passing students. The district summary from the updated analysis (as shown below), remained the same as the original analysis except for one value, average math score. The average math score in the updated analysis decreased by 0.1% in comparison to the original. 
 
 ![District Summary](Images/District_Summary.png)
+
+2) The school summary provided information on the total number of schools, students and budget in the district, average math and reading scores across the schools, as well as the percentage of passing students. The district summary from the updated analysis (as shown below), remained the same as the original analysis except for one value, average math score. The average math score in the updated analysis decreased by 0.1% in comparison to the original. 
