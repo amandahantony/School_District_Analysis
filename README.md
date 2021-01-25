@@ -30,11 +30,11 @@ This updated analysis slightly varies from the initial analysis ([Original Schoo
 
 ![Score by Spending Range](Images/scoreby_spendingrange.png)
 
-6)
+6)School size was divided into 3 bins; small, medium and large. After replacing the ninth-grade scores, the % passing math, % passing reading, and % overall passing values changed, but only within the medium bin (1000 - 2000). This makes sense because the total students at Thomas High School is 1635. The % passing math, % passing reading and % overall passing values all decreased by 6%. The scores by school size data frame is shown below.
 
 ![Score by School Size](Images/scoreby_schoolsize.png)
 
-7)
+7)School type was divided into two; Charter and District. After replacing the ninth-grade scores, the % passing math, % passing reading, and % overall passing values changed, but only within the Charter type. This makes sense because Thomas High School is within the Charter type. The % passing math value decreased by 4%, % passing reading decreased by 4%, and % overall passing decreased by 3%. The scores by school type data frame is shown below.
 
 ![Score by School Type](Images/scoreby_schooltype.png)
 
